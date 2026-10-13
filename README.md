@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hello! I'm Tomas Bran, and I'm glad you're here. On this profile, you'll find my projects and contributions. Currently, I'm working on an exciting project called **Portal Pokémon**.
+Hello! I'm Tomas Bran, and I'm glad you're here. On this profile, you'll find my projects and contributions. Currently, I'm working on an exciting project called **Portal Pokemon**.
 
 ## About My Projects
 
